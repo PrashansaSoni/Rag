@@ -1,0 +1,22 @@
+Welcome to the AI Knowledge Base!
+
+This document provides foundational knowledge on Artificial Intelligence (AI) and its applications.
+
+Artificial Intelligence is a branch of computer science that aims to create machines capable of intelligent behavior. It includes subfields such as machine learning, natural language processing, computer vision, and robotics.
+
+Key Applications of AI:
+1. Healthcare: AI assists in disease diagnosis, drug discovery, and personalized medicine.
+2. Agriculture: AI helps in crop monitoring, soil analysis, and predictive analytics for yield optimization.
+3. Education: AI enables adaptive learning platforms and automates administrative tasks.
+4. Transportation: Self-driving cars, traffic management, and route optimization rely heavily on AI.
+5. Finance: AI powers fraud detection, algorithmic trading, and risk assessment.
+
+Challenges in AI:
+- Data Privacy: AI systems require large datasets, raising concerns about user privacy.
+- Bias: AI can reflect and reinforce societal biases present in training data.
+- Interpretability: Many AI models, especially deep learning, are seen as "black boxes."
+
+Future Outlook:
+The future of AI involves greater transparency, fairness, and collaboration between humans and machines. Governments and organizations worldwide are working on ethical frameworks and regulations to ensure responsible AI deployment.
+
+This knowledge base is used by the chatbot to answer queries related to AI concepts, applications, challenges, and trends.
